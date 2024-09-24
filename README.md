@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janqueralt05&label=Profile%20views&color=2a9702&style=flat" alt="janqueralt05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janqueralt05" alt="janqueralt05" /></a> </p>
 
 - 🧑‍🎓 I’m currently studying [DAW - Web App Development at -->](https://www.ilerna.es/)
 
