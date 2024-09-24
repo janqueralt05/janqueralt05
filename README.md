@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [https://janqueralt.es](https://janqueralt.es)
 
 <h3 align="left">Connect with me:</h3>
-[mailto](mailto:jan@alumnes.ilerna.com)
+[Enviar correo](mailto:correo@ejemplo.com)
 <p align="left">
 </p>
 
