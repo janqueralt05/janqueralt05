@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janqueralt05&label=Profile%20views&color=2a9702&style=flat" alt="janqueralt05" /> </p>
 
 
-- 🧑‍🎓 I’m currently studying DAW - Web App Development at --> [ILERNA](https://www.ilerna.es/)
+- 🧑‍🎓 I’m currently studying DAW (WebAppDevelopment) at --> [ILERNA](https://www.ilerna.es/)
 
 - 🌱 I’m currently learning **Java, Python, Sql**
 
