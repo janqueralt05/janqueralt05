@@ -5,7 +5,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/janqueralt05/janqueralt05/.github/snake.yml" alt="Snake animation" />
+<img src=".github/snake.yml" alt="Snake animation" />
 
 ###
 
