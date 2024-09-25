@@ -5,7 +5,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/janqueralt05/janqueralt05/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/janqueralt05/janqueralt05/.github/snake.svg" alt="Snake animation" />
 
 ###
 
