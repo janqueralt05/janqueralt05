@@ -3,6 +3,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/tu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/janqueralt05)
 [![Email](https://img.shields.io/badge/Email-jan%40ilerda.com-informational)](mailto:jan@ilerda.com)
+![GitHub followers](https://img.shields.io/github/followers/janqueralt05)
+
 
 ---
 
