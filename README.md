@@ -1,24 +1,90 @@
-<h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+# 📄 **[Tu Nombre Completo]**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janqueralt05&label=Profile%30views&color=2a9702&style=flat" alt="janqueralt05" /> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/tu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/tu-perfil)
+[![Email](https://img.shields.io/badge/Email-tuemail%40gmail.com-informational)](mailto:tuemail@gmail.com)
 
-###
+---
 
-<img src=".github/snake.yml" alt="Snake animation" />
+## 👨‍💻 **Desarrollador Full Stack | Ingeniero de Software**
 
-###
+Apasionado por la tecnología y la innovación. Con experiencia en desarrollo de aplicaciones web, software a medida y automatización de procesos. Mi objetivo es construir soluciones eficientes y escalables que impulsen el éxito empresarial.
 
+---
 
-- 🧑‍🎓 I’m currently studying DAW (WebAppDevelopment) at --> [ILERNA](https://www.ilerna.es/)
+## 📚 **Educación**
 
-- 🌱 I’m currently learning **Java, Python, Sql**
+### 🎓 **[Título Universitario]**  
+_Universidad XYZ_ | 20XX - 20XX  
+**Mención:** _Tu Especialización_  
+- **Proyectos destacados:** Desarrollo de una plataforma de e-commerce como trabajo final de grado, aplicando tecnologías como React, Node.js y MongoDB.
+- **Logros:** Mejor promedio del curso de Algoritmos Avanzados, beca por mérito académico.
 
-- 👨‍💻 All of my projects are available at [janqueralt.es](https://janqueralt.es)
+---
 
-- 📫 How to reach me **jan@alumnes.ilerna.com**
+## 🛠 **Habilidades Técnicas**
 
-- 📄 Know about my experiences [janqueralt.es](https://janqueralt.es)
+- **Lenguajes:** Python, JavaScript, TypeScript, SQL
+- **Frameworks y librerías:** React, Node.js, Django, Flask
+- **Bases de datos:** MySQL, MongoDB, PostgreSQL
+- **Herramientas DevOps:** Docker, Jenkins, GitHub Actions
+- **Control de versiones:** Git, GitHub, GitLab
+- **Otras tecnologías:** HTML5, CSS3, GraphQL, REST APIs
 
-<h3 align="left">Languages and Tools:</h3>
-<p> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="30" height="30"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" alt="nextjs" width="30" height="30"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/512px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="30" height="30"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="30" height="30"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png" alt="xd" width="30" height="30"/> </a> </p>
+---
+
+## 💼 **Experiencia Profesional**
+
+### 🏢 **Desarrollador Full Stack**  
+_Empresa ABC_ | _2022 - Presente_  
+- Desarrollo y mantenimiento de aplicaciones web usando React, Node.js y bases de datos NoSQL como MongoDB.
+- Lideré la migración de una aplicación monolítica a microservicios, mejorando la escalabilidad en un 30%.
+- Automatización de procesos CI/CD usando Docker y Jenkins, reduciendo el tiempo de despliegue en un 40%.
+- Colaboración en proyectos Agile con equipos multidisciplinarios.
+
+### 🏢 **Ingeniero de Software Junior**  
+_Empresa XYZ_ | _2020 - 2022_  
+- Implementación de nuevas funcionalidades y optimización de código en una plataforma de gestión educativa.
+- Desarrollo de APIs RESTful en Django y Flask, conectando servicios con bases de datos relacionales.
+- Participación en revisiones de código, asegurando el cumplimiento de estándares de calidad y buenas prácticas.
+
+---
+
+## 📂 **Proyectos Destacados**
+
+### 🌐 **[Nombre del Proyecto #1](https://github.com/tu-repo/proyecto1)**
+Aplicación web para gestionar eventos y reservas. Integración de pasarelas de pago y autenticación mediante OAuth2.
+- **Tecnologías:** React, Node.js, Express, PostgreSQL, Stripe API
+- **Descripción:** Plataforma de reserva de eventos con autenticación de usuarios y gestión de pagos.
+
+### 📱 **[Nombre del Proyecto #2](https://github.com/tu-repo/proyecto2)**
+Aplicación móvil para seguimiento de hábitos diarios y estadísticas personales.
+- **Tecnologías:** React Native, Firebase, Redux
+- **Descripción:** Permite a los usuarios establecer metas diarias y obtener reportes detallados de su progreso.
+
+---
+
+## 🎯 **Logros y Reconocimientos**
+
+- 🏆 **Hackathon 2022 - 1er Lugar**: Desarrollé una solución innovadora para optimizar la logística en centros de distribución utilizando machine learning.
+- 📈 **Incremento de la velocidad de la app**: Mejoré el rendimiento de una aplicación en un 50% mediante optimización de queries y caché.
+- 💡 **Patente registrada**: Co-autor de una patente sobre un sistema de monitoreo automatizado de infraestructuras basado en IoT.
+
+---
+
+## 🎨 **Intereses**
+
+- **Inteligencia Artificial**: Aplicaciones de machine learning en la vida cotidiana.
+- **Blockchain**: Exploración del uso de contratos inteligentes y criptomonedas.
+- **Desarrollo de videojuegos**: Creación de juegos indie en Unity y Unreal Engine.
+- **Fotografía y diseño gráfico**: Creatividad aplicada a proyectos visuales.
+
+---
+
+## 📧 **Contacto**
+
+¿Quieres colaborar o necesitas más información?  
+Envíame un correo a [tuemail@gmail.com](mailto:tuemail@gmail.com), o conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/tu-perfil).
+
+---
+⭐️ _Este CV fue generado en formato Markdown para GitHub._  
