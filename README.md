@@ -26,6 +26,7 @@ _Universidad XYZ_ | 20XX - 20XX
 ## 🥇 **Certificados**
 
 Certificado en Introducción a la IA generativa --> [Ver certificado](https://drive.google.com/file/d/1S49yCYVDlaK4FuN1ZQiXWrS3xJRStxk7/view?usp=sharing)
+
 Certificado en Secuencias de comandos Bash --> [Ver certificado](https://drive.google.com/file/d/1gvjmTC6hFsb4LZ9Tah3niLhgVGGc63iq/view?usp=sharing)
 
 ---
