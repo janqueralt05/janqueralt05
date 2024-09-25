@@ -15,7 +15,7 @@ Mi objetivo es seguir creciendo y creando. ❤
 
 ## 📚 **Educación**
 
-### 🎓 **[Título Universitario]**  
+### 🎓💻 **[Grado medio en Sistemas Microinformàticos y Redes]**  
 _Universidad XYZ_ | 20XX - 20XX  
 **Mención:** _Tu Especialización_  
 - **Proyectos destacados:** Desarrollo de una plataforma de e-commerce como trabajo final de grado, aplicando tecnologías como React, Node.js y MongoDB.
