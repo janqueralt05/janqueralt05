@@ -13,7 +13,7 @@ Mi objetivo es seguir creciendo y creando. ❤
 
 ---
 
-## 📚 **Educación  |  🥇 Certificados**
+## 📚 **Educación**
 
 ### 🎓 **[Título Universitario]**  
 _Universidad XYZ_ | 20XX - 20XX  
@@ -22,6 +22,20 @@ _Universidad XYZ_ | 20XX - 20XX
 - **Logros:** Mejor promedio del curso de Algoritmos Avanzados, beca por mérito académico.
 
 ---
+
+
+---
+
+## 🥇 **Certificados**
+
+### 🎓 **[Título Universitario]**  
+_Universidad XYZ_ | 20XX - 20XX  
+**Mención:** _Tu Especialización_  
+- **Proyectos destacados:** Desarrollo de una plataforma de e-commerce como trabajo final de grado, aplicando tecnologías como React, Node.js y MongoDB.
+- **Logros:** Mejor promedio del curso de Algoritmos Avanzados, beca por mérito académico.
+
+---
+
 
 ## 🛠 **Habilidades Técnicas**
 
