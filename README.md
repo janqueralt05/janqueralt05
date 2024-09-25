@@ -8,7 +8,9 @@
 
 ## 👨‍💻 **Desarrollador Web**
 
-Soy Jan, un apasionado del desarrollo web y la tecnología. A mis 19 años, estoy construyendo proyectos que combinan innovación y utilidad práctica, siempre buscando soluciones que hagan la vida más fácil. Además de estudiar desarrollo web, estoy creando plataformas que optimizan tareas administrativas.
+Soy Jan, un apasionado del desarrollo web y la tecnología. A mis 19 años, estoy construyendo proyectos que combinan innovación y utilidad.
+Siempre buscando soluciones que hagan la vida más fácil. 
+Además de estudiar desarrollo web, estoy creando plataformas que optimizan tareas administrativas.
 Mi objetivo es seguir creciendo y creando. ❤
 
 ---
