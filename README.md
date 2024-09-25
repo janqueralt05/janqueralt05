@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/tu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/tu-perfil)
-[![Email](https://img.shields.io/badge/Email-tuemail%40gmail.com-informational)](mailto:jan@ilerda.com)
+[![Email](https://img.shields.io/badge/Email-jan%40ilerda.com-informational)](mailto:jan@ilerda.com)
 [![]]
 
 ---
