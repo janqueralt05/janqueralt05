@@ -1,4 +1,4 @@
-# 📄 **[Tu Nombre Completo]**
+# 📄 ** Jan Queralt **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/tu-perfil)
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/tu-perfil)
