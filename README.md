@@ -4,8 +4,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Perfil-black)](https://github.com/janqueralt05)
 [![Email](https://img.shields.io/badge/Email-jan%40ilerda.com-informational)](mailto:jan@ilerda.com)
 
-
-
 ---
 
 ## 👨‍💻 **Desarrollador Full Stack | Ingeniero de Software**
