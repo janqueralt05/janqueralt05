@@ -13,7 +13,7 @@ Mi objetivo es seguir creciendo y creando. ❤
 
 ---
 
-## 📚 **Educación**
+## 📚 **Educación y 🥇 Certificados**
 
 ### 🎓 **[Título Universitario]**  
 _Universidad XYZ_ | 20XX - 20XX  
