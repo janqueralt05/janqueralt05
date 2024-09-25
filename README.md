@@ -23,7 +23,7 @@ Mi objetivo es seguir creciendo y creando. ❤
 _Centro de Formacion Professional Ilerna Lleida_ | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/LOGO_ILERNA.png" alt="Texto alternativo" width="35" height="25"> | 2022 - 2024
 
 ### 🎓💻 **Grado superior en Desarrollo de Aplicaciones Web (actual)**  
-_Centro de Formacion Professional Ilerna Lleida_ | 2024 - 20xx
+_Centro de Formacion Professional Ilerna Lleida_ | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/LOGO_ILERNA.png" alt="Texto alternativo" width="35" height="25"> | 2024 - 20xx
 
 ---
 
