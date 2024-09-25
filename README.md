@@ -88,4 +88,3 @@ Aplicación móvil para seguimiento de hábitos diarios y estadísticas personal
 Envíame un correo a [tuemail@gmail.com](mailto:tuemail@gmail.com), o conéctate conmigo en [LinkedIn](https://www.linkedin.com/in/tu-perfil).
 
 ---
-⭐️ _Este CV fue generado en formato Markdown para GitHub._  
