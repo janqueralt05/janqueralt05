@@ -23,9 +23,6 @@ _Universidad XYZ_ | 20XX - 20XX
 
 ---
 
-
----
-
 ## 🥇 **Certificados**
 
 ### 🎓 **[Título Universitario]**  
