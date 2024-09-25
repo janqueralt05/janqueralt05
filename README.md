@@ -16,10 +16,10 @@ Mi objetivo es seguir creciendo y creando. ❤
 ## 📚 **Educación**
 
 ### 🎓💻 **Grado medio en Sistemas Microinformàticos y Redes**  
-_Centro de Formacion Professional Ilerna Lleida_ | 2022 - 2024  
-**Mención:** _Tu Especialización_  
-- **Proyectos destacados:** Desarrollo de una plataforma de e-commerce como trabajo final de grado, aplicando tecnologías como React, Node.js y MongoDB.
-- **Logros:** Mejor promedio del curso de Algoritmos Avanzados, beca por mérito académico.
+_Centro de Formacion Professional Ilerna Lleida_ | 2022 - 2024
+
+### 🎓💻 **Grado superior en Desarrollo de Aplicaciones Web (actual)**  
+_Centro de Formacion Professional Ilerna Lleida_ | 2024 - 20xx
 
 ---
 
