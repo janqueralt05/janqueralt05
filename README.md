@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janqueralt05&label=Profile%30views&color=2a9702&style=flat" alt="janqueralt05" /> </p>
 
+###
+
+<img src="https://raw.githubusercontent.com/janqueralt05/janqueralt05/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 - 🧑‍🎓 I’m currently studying DAW (WebAppDevelopment) at --> [ILERNA](https://www.ilerna.es/)
 
