@@ -25,7 +25,7 @@ _Universidad XYZ_ | 20XX - 20XX
 
 ## 🥇 **Certificados**
 
-<iframe src="ruta/al/archivo.pdf" width="100%" height="500px"></iframe>
+<iframe src="src/Intro-to-generative-ai.pdf" width="100%" height="500px"></iframe>
 
 ---
 
