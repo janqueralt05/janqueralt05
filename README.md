@@ -20,7 +20,7 @@ Mi objetivo es seguir creciendo y creando. ❤
 ## 📚 **Educación**
 
 ### 🎓💻 **Grado medio en Sistemas Microinformàticos y Redes**  
-_Centro de Formacion Professional Ilerna Lleida_ <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/LOGO_ILERNA.png" alt="Texto alternativo" width="35" height="25"> | 2022 - 2024
+_Centro de Formacion Professional Ilerna Lleida_ | <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/LOGO_ILERNA.png" alt="Texto alternativo" width="35" height="25"> | 2022 - 2024
 
 ### 🎓💻 **Grado superior en Desarrollo de Aplicaciones Web (actual)**  
 _Centro de Formacion Professional Ilerna Lleida_ | 2024 - 20xx
