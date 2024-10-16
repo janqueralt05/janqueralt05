@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋 mi nombre es Jan</h1>
 <h3 align="center">Desarrollador web</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=janqueralt05" alt="janqueralt05" /></a> </p>
-
 - 🔭 Actualmente estoy trabajando en [Java](https://www.java.com/es/)
 
 - 🌱 Estoy aprendiendo **Python y Java**
